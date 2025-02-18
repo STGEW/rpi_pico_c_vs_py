@@ -52,7 +52,5 @@ Mkfile.old
 dkms.conf
 
 .vscode/*
-./summation/build/
-./matrix_mult/build/
-./gpio_blinking/build/
-./factorial/build/
+*/build
+
